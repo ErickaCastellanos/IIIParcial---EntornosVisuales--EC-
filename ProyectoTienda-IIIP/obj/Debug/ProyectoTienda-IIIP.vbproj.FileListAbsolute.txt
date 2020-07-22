@@ -1,0 +1,12 @@
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\bin\Debug\ProyectoTienda-IIIP.exe.config
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\bin\Debug\ProyectoTienda-IIIP.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\bin\Debug\ProyectoTienda-IIIP.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\bin\Debug\ProyectoTienda-IIIP.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.vbprojAssemblyReference.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda_IIIP.Resources.resources
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.vbproj.GenerateResource.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.vbproj.CoreCompileInputs.cache
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.exe
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.xml
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda-IIIP.pdb
+C:\Users\ERIKA CASTELLANOS\Desktop\Visual-Studio\ProyectoTienda-IIIP\obj\Debug\ProyectoTienda_IIIP.Usuario.resources
